@@ -1,7 +1,7 @@
 # Projet Optimisation Combinatoire : MCKP par Algorithme Génétique et Machine Learning
 
 ## Description du projet
-Ce projet a été réalisé dans le cadre de l'UE d'Optimisation Combinatoire (M1 MIAGE MIXTE à l'Université Paris Nanterre). Il a pour objectif de concevoir et d'évaluer une approche hybride combinant une métaheuristique classique et un algorithme de Machine Learning pour résoudre le **Multiple Choice Knapsack Problem (MCKP)**, ou Problème du sac à dos à choix multiple.
+Ce projet a été réalisé dans le cadre de l'UE d'Optimisation Combinatoire (M1 MIAGE à l'Université Paris Nanterre). Il a pour objectif de concevoir et d'évaluer une approche hybride combinant une métaheuristique classique et un algorithme de Machine Learning pour résoudre le **Multiple Choice Knapsack Problem (MCKP)**, ou Problème du sac à dos à choix multiple.
 
 L'approche se déroule en deux étapes principales :
 1. **Métaheuristique de base** : Implémentation d'un Algorithme Génétique (AG) classique avec sélection par tournoi, évaluation de la fitness (avec gestion des pénalités liées à la capacité), croisement (implémentations à 1 et 2 points) et mutation.
