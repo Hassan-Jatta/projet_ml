@@ -45,3 +45,7 @@ projet_ml/
 ├── MCKP_AG_ML.ipynb    # Code source complet du projet (génération, AG classique, AG avec Machine Learning, et analyse visuelle des résultats)
 └── README.md        
 ```
+
+### Auteurs
+
+**Hassan Jatta** et **Abdoulaye Haidara**
