@@ -46,6 +46,6 @@ projet_ml/
 └── README.md        
 ```
 
-### Auteurs
+## Auteurs
 
 **Hassan Jatta** et **Abdoulaye Haidara**
